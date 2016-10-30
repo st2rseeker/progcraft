@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Mental Spotlight
+title: ProgCraft
 subtitle:
 description:
 author: Edward Goikhman (st2rseeker)
@@ -12,7 +12,7 @@ timezone: Asia/Jerusalem
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: mentalspotlight.co
+url: progcraft.xyz
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -69,5 +69,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://github.com/st2rseeker/mentalspotlight
+  repository: https://github.com/st2rseeker/progcraft
   branch: gh-pages
