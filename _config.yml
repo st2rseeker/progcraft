@@ -69,5 +69,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://github.com/st2rseeker/progcraft
+  repository: git@github.com:st2rseeker/progcraft.git
   branch: gh-pages
