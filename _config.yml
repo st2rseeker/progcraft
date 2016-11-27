@@ -4,10 +4,10 @@
 
 # Site
 title: ProgCraft
-subtitle:
-description:
+subtitle: Explorations in Code
+description: Programming is a craft to be practiced and honed - this blog will help you with that
 author: Edward Goikhman (st2rseeker)
-language: en
+language: default
 timezone: Asia/Jerusalem
 
 # URL
@@ -30,7 +30,7 @@ skip_render:
 # Writing
 new_post_name: :title.md # File name of new posts
 default_layout: post
-titlecase: false # Transform title into titlecase
+titlecase: true # Transform title into titlecase
 external_link: true # Open external links in new tab
 filename_case: 0
 render_drafts: false
