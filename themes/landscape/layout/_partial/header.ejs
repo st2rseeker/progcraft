@@ -19,9 +19,13 @@
         <% } %>
       </nav>
       <nav id="sub-nav">
-        <% if (theme.rss){ %>
-          <a id="nav-rss-link" class="nav-icon" href="<%- theme.rss %>" title="<%= __('rss_feed') %>"></a>
-        <% } %>
+        <a id="nav-github-btn" class="nav-icon" href="https://github.com/st2rseeker"></a>
+        <a id="nav-stackoverflow-btn" class="nav-icon" href="https://stackoverflow.com/users/3990981/st2rseeker"></a>
+        <a id="nav-twitter-btn" class="nav-icon" href="https://twitter.com/st2rseeker"></a>
+        <a id="nav-linkedin-btn" class="nav-icon" href="https://il.linkedin.com/in/edwardgoikhman"></a>
+          <% if (theme.rss){ %>
+        <a id="nav-rss-link" class="nav-icon" href="<%- theme.rss %>" title="<%= __('rss_feed') %>"></a>
+          <% } %>
         <a id="nav-search-btn" class="nav-icon" title="<%= __('search') %>"></a>
       </nav>
       <div id="search-form-wrap">
