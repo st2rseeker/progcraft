@@ -71,3 +71,10 @@ deploy:
   type: git
   repository: git@github.com:st2rseeker/progcraft.git
   branch: gh-pages
+
+# RSS Feed
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:
