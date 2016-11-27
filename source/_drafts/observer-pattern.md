@@ -1,5 +1,11 @@
 ---
-title: Observer Pattern
-date: 2016-11-27 13:50:47
+title: 'Design Patterns: Observer'
+date: 2016-12-01 12:00:00
+categories:
+- architecture
 tags:
+- patterns
+- behavioral
+- observer
 ---
+
