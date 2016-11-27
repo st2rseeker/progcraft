@@ -7,6 +7,7 @@ title: ProgCraft
 subtitle: Explorations in Code
 description: Programming is a craft to be practiced and honed - this blog will help you with that
 author: Edward Goikhman (st2rseeker)
+email: st2rseeker@gmail.com
 language: default
 timezone: Asia/Jerusalem
 
@@ -78,3 +79,6 @@ feed:
   path: atom.xml
   limit: 20
   hub:
+
+# Disqus
+disqus_shortname: progcraft
