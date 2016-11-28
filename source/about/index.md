@@ -1,6 +1,7 @@
 ---
 title: about
 date: 2016-11-18 00:00:00
+comments: false
 ---
 
 My name is Edward Goikhman (or simply Eddie) and I'm commonly known as st2rseeker on the interwebs.
