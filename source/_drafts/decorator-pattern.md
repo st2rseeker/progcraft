@@ -1,0 +1,4 @@
+---
+title: decorator-pattern
+tags:
+---

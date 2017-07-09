@@ -1,0 +1,4 @@
+---
+title: iterator-pattern
+tags:
+---

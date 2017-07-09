@@ -1,0 +1,4 @@
+---
+title: flyweight-pattern
+tags:
+---

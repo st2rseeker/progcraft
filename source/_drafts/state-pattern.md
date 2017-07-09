@@ -1,0 +1,4 @@
+---
+title: state-pattern
+tags:
+---

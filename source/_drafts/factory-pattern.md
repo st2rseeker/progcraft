@@ -1,0 +1,4 @@
+---
+title: factory-pattern
+tags:
+---

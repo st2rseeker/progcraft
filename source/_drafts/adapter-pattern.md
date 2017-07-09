@@ -1,0 +1,4 @@
+---
+title: adapter-pattern
+tags:
+---

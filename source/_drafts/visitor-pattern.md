@@ -1,0 +1,4 @@
+---
+title: visitor-pattern
+tags:
+---

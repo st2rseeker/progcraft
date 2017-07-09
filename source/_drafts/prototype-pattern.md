@@ -1,0 +1,4 @@
+---
+title: prototype-pattern
+tags:
+---
