@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>ProgCraft</title>
+  <subtitle>Explorations in Code</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://progcraft.xyz/"/>
+  <updated>2017-07-09T12:39:26.561Z</updated>
+  <id>https://progcraft.xyz/</id>
+  
+  <author>
+    <name>Edward Goikhman (st2rseeker)</name>
+    <email>st2rseeker@gmail.com</email>
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello, World!</title>
+    <link href="https://progcraft.xyz/2017/07/06/hello-world/"/>
+    <id>https://progcraft.xyz/2017/07/06/hello-world/</id>
+    <published>2017-07-05T21:00:00.000Z</published>
+    <updated>2017-07-09T12:39:26.561Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Welcome"><a href="#Welcome" class="headerlink" title="Welcome!"></a>Welcome!</h2><p>And as we often say:</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">print(<span class="string">"Hello, World!"</span>)</div></pre></td></tr></table></figure>
+<p>This freshly-compiled blog is where I plan discussing interesting aspects of programming and related topics - from minor trivia that can trip or elevate our code (which we often gloss over) to abstract approaches to thinking about our life as developers.</p>
+<p>Myself, I am a full-stack and multi-paradigm software engineer and hacker with a keen interest in artificial intelligence, machine learning and brain-computer interfaces (check the <a href="/about">about page</a> for more info).</p>
+<p>Our field is vast, ever-changing and deeply fascinating - so hop on and we shall venture forth together!</p>
+<p><img src="https://tctechcrunch2011.files.wordpress.com/2014/01/83-image-2.jpg" alt="No, really - take it!"></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;Welcome&quot;&gt;&lt;a href=&quot;#Welcome&quot; class=&quot;headerlink&quot; title=&quot;Welcome!&quot;&gt;&lt;/a&gt;Welcome!&lt;/h2&gt;&lt;p&gt;And as we often say:&lt;/p&gt;
+&lt;figure class=&quot;highligh
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
